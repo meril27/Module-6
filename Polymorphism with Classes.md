@@ -45,5 +45,8 @@ for func in (obj_beans,obj_mango):
 ## Output
 <img width="1181" height="342" alt="class" src="https://github.com/user-attachments/assets/ca4bbaa7-066b-4324-bf6e-dbd3d75884eb" />
 ```
+## Output 
+<img width="1181" height="342" alt="class" src="https://github.com/user-attachments/assets/a5dfbe83-1ddf-4c87-9879-f1fcb5eb2679" />
+
 ## Result
 Thus,the program is executed successfully.
